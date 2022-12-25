@@ -1,6 +1,6 @@
-# clevertec_task
+# Clevertec test task
 
-Folder represents itself 2 modules: console and RESTful application. 
+Folder represents itself 2 modules: **`console`** and **`RESTful`** applications. 
 
 # Console application  
 ## Technology stack: 
