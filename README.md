@@ -2,15 +2,15 @@
 
 Folder represents itself 2 modules: console and RESTful application. 
 
-##Console application  
-# Technology stack: 
+# Console application  
+## Technology stack: 
 **`Java only`**
 
-# How to build
+## How to build
 1. Build project: gradle clean build
 2. To run: java -jar ./build/libs/ClevertecTask-1.0-SNAPSHOT.jar 
 
-# Example commands: 
+## Example commands: 
 **`Console mode`**: 
 *Command*: 1-1 2-1 3-1 or 1-1 2-1 3-1 card-1234
 *Response:*
